@@ -147,8 +147,9 @@ export default {
 			// to `true` copies all files.
 			// copyUnmodified: true
 		}),
-		// 图片压缩 production开启
+		// 图片压缩 production 开启
 		// new ImageminPlugin({ test: /\.(jpe?g|png|gif|svg)$/i }),
+
 		/**
 		 * 	new WXAppWebpackPlugin(options)
 			options

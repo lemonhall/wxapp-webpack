@@ -30,17 +30,13 @@
 - `yarn build` 编译生成 `production` 环境的代码到 `dist` 
 - `yarn create` 快速创建微信小程序页面
 
+## 配置修改
 
-## 注意
+- 查看 `webpack.config.babel.js`
 
-暂不支持直接引入 `app.json` 上的 `tabBar.list.iconPath` 和 `tabBar.list.selectedIconPath` 文件，需要配合 `copy-webpack-plugin` 手动引入
+## 来源参考
 
-
-## 相关项目
-
-- [react-lib-boilerplate](https://github.com/cantonjs/react-lib-boilerplate)
-- [front-end-lib-boilerplate](https://github.com/cantonjs/front-end-lib-boilerplate)
-- [node-cli-boilerplate](https://github.com/cantonjs/node-cli-boilerplate)
+-  [](https://github.com/cantonjs/wxapp-boilerplate)
 
 ## License
 
