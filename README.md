@@ -36,7 +36,7 @@
 
 ## 来源参考
 
--  [](https://github.com/cantonjs/wxapp-boilerplate)
+-  [wxapp-boilerplate](https://github.com/cantonjs/wxapp-boilerplate)
 
 ## License
 
